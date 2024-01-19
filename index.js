@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 I am RTX","Spotify","Youtube","SUBSCRIBE❤️","THANKS 🌇"];
+const statusMessages = ["ROLEANDO EN LATIN GANG RP", "JUGANDO LATIN GANG RP", "LATIN GANG RP ON TOP", "LATIN GANG!", "LATIN GANG ROLEPLAY"];
 
 
 let currentIndex = 0;
